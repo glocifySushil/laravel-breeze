@@ -9,7 +9,5 @@ class frontendController extends Controller
     public function home(){
 
         echo "Homepage";
-
-        
     }
 }
