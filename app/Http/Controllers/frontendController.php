@@ -6,8 +6,10 @@ use Illuminate\Http\Request;
 
 class frontendController extends Controller
 {
-    public function hello(){
+    public function home(){
 
-        echo "hello";
+        echo "Homepage";
+
+        
     }
 }
